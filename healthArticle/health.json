@@ -1,0 +1,14 @@
+{
+    "articles": [
+      {
+        "title": "Todays weather",
+        "description": "We will discuss todays forecase",
+        "attributes": [
+          "72 degrees",
+          "Sunny",
+          "Clear Skies"
+        ]
+      }
+    ]
+  }
+  
